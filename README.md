@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="\assets\logo@3x.png?raw=true" alt="Logo">
+<img src="\assets\logo@3x.svg?raw=true" alt="Logo">
   <br>
   Seu marketplace de coleta de resíduos.
   <br>
