@@ -61,6 +61,7 @@
     display: flex;  
     align-items: center;
     margin-top: 48px;
+    text-align: center;
     transition: 400ms;
     background: var(--primary-color)
 }
