@@ -1,0 +1,24 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r <img src=\"/assets/logo.svg\" alt=\"Logo\">\r   <br>\r   Seu marketplace de coleta de resíduos.\r   <br>\r </h1>",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bermarques/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bermarques/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/bermarques/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  }
+}
