@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/assets/logo.svg" alt="Logo">
+<img src="public/assets/logo.svg" alt="Logo">
   <br>
   Seu marketplace de coleta de resíduos.
   <br>
@@ -23,3 +23,4 @@ para instalar o express só usar
 ``` npm install ```
 
 - <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a> como template engine
+- <a href="https://www.npmjs.com/package/sqlite3">sqlite3</a> como banco de dados
